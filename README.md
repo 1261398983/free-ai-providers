@@ -20,9 +20,9 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[RELAY X](https://api.97wl.cc/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> **[RELAY X](https://api.97wl.cc/register)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/)
+> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/register)
 
 
 ---
@@ -73,7 +73,7 @@
 | **[True-Sota](https://true-sota.com/register?aff=65D34TT92NNR)** | **$20 Bonus** | Claude, GPT-4o | [Test](https://ai.solisk.org/checker) | Good response speeds |
 | **[Orbelius (Nova)](https://nova.vcrauo.com/sign-up?aff=7Ny4)** | **$10 Free** | DeepSeek, GPT-4o | [Test](https://ai.solisk.org/checker) | Claimable dashboard reward credits |
 | **[VSLLM](https://vsllm.cc/register?aff=sTmW)** | **Trial Balance** | DeepSeek, Qwen | [Test](https://ai.solisk.org/checker) | Fast failover relay |
-| **[97wl](https://api.97wl.cc/)** | **Pay-as-you-go (CNY)** | DeepSeek V4/V4.1, GLM-5.2/5.3, Kimi K2.8/K3, MiniMax M3, Hunyuan 3/4, GPT-6 (pro group) | [Test](https://ai.solisk.org/checker) | 0.08x group rate on CN models; dual protocol (OpenAI + Anthropic) on one base URL; Alipay/WeChat top-up, no overseas card |
+| **[97wl](https://api.97wl.cc/register)** | **Pay-as-you-go (CNY)** | DeepSeek V4/V4.1, GLM-5.2/5.3, Kimi K2.8/K3, MiniMax M3, Hunyuan 3/4, GPT-6 (pro group) | [Test](https://ai.solisk.org/checker) | 0.08x group rate on CN models; dual protocol (OpenAI + Anthropic) on one base URL; Alipay/WeChat top-up, no overseas card |
 
 ---
 
@@ -121,7 +121,7 @@ Test your API keys, response latency, and supported models live:
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/)**：
+本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/register)**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -139,5 +139,5 @@ Test your API keys, response latency, and supported models live:
 
 [中转站导航](https://1261398983.github.io/ai-relay-nav/) · [中转目录](https://1261398983.github.io/ai-api-relay-directory/) · [Proxy 清单](https://1261398983.github.io/ai-api-proxy-list/) · [快速接入](https://1261398983.github.io/ai-api-quickstart/) · [免费站点清单](https://1261398983.github.io/ai-coding-free-sites/)
 
-**[RELAY X 中转站](https://api.97wl.cc/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+**[RELAY X 中转站](https://api.97wl.cc/register)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
