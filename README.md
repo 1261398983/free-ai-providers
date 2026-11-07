@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sample Gateway · 逆向工程 | Free AI API Providers — ⚡ Free AI API Keys & Relays for Agentic Coding
+# 示例网关 · 逆向工程 | Free AI API Providers — ⚡ Free AI API Keys & Relays for Agentic Coding
 ### Curated Directory, Working Models Tested & Real-Time Diagnostics
 
 [![Live Diagnostic Checker](https://img.shields.io/badge/Live_API_Checker-ai.solisk.org%2Fchecker-4f46e5?style=for-the-badge&logo=fastapi&logoColor=white)](https://ai.solisk.org/checker)
@@ -20,7 +20,7 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
+> 注册只需 邮箱，、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
 
 
 ---
@@ -120,7 +120,7 @@ Test your API keys, response latency, and supported models live:
 
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
-- **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
+- **注册门槛低** — 邮箱即可，、无需手机号、无需外币卡
 - **计费透明** — 按量计费，输入输出分开计价，分组与模型倍率在控制台公开
 - **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
 - **起充低** — 人民币 10 元起，可以先小额试
